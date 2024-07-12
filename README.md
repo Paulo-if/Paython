@@ -2,7 +2,7 @@
   <img src="https://github.com/Paulo-if/Paython/blob/main/Pythonfds.png" alt="IMG" width="300" height="150">
 </div>
  
- Repositorio destinado aos exercicios do Beecrowd em Python
+Repository for Beecrowd exercises in Python
 
 ## 🐍 List_01 | Beginner:
 
