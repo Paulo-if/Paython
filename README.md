@@ -18,4 +18,10 @@ Repository for Beecrowd exercises in Python
   - [Notas e Moedas](https://github.com/Paulo-if/Paython/blob/main/List_01/21_Notas_Moedas.py) | [Teste de Seleção](https://github.com/Paulo-if/Paython/blob/main/List_01/22_Teste_Sele%C3%A7%C3%A3o1.py) | [Fórmula de Bhaskara](https://github.com/Paulo-if/Paython/blob/main/List_01/23_F%C3%B3rmula_Bhaskara.py) |
   - [Intervalo](https://github.com/Paulo-if/Paython/blob/main/List_01/24_Intervalo.py) |
 
+## 🐍 Part_03 | Beginner:
+
+  - [Coordenadas de um ponto](https://github.com/Paulo-if/Paython/blob/main/List_01/25_Coordenadas%20de%20um%20Ponto.py) | [Lanche](https://github.com/Paulo-if/Paython/blob/main/List_01/26_Lanche.py) | [Média_3](https://github.com/Paulo-if/Paython/blob/main/List_01/27_M%C3%A9dia_3.py) | [Múltiplos](https://github.com/Paulo-if/Paython/blob/main/List_01/28_M%C3%BAltiplos.py) |
+  - [Sort Simples](https://github.com/Paulo-if/Paython/blob/main/List_01/29_Sort%20Simples.py) | [Tempo de jogo](https://github.com/Paulo-if/Paython/blob/main/List_01/31_Tempo%20de%20Jogo.py) | [Tempo de jogo com minutos](https://github.com/Paulo-if/Paython/blob/main/List_01/30_Tempo%20de%20Jogo%20com%20Minutos.py) |
+  - [Tipos de Triângulos](https://github.com/Paulo-if/Paython/blob/main/List_01/32_Tipos%20de%20Tri%C3%A2ngulos.py) | [Triângulos](https://github.com/Paulo-if/Paython/blob/main/List_01/33_Tri%C3%A2ngulo.py) |
+  - 
 ---
