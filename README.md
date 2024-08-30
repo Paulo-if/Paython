@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Paulo-if/Paython/blob/main/Pythonfds.png" alt="IMG" width="300" height="150">
+  <img src="https://github.com/Paulo-if/Paython/blob/main/1.png" alt="IMG" width="400" height="150">
 </div>
  
 Repository for Beecrowd exercises in Python
